@@ -9,7 +9,6 @@ I'm currently a Final Year student at UOW Malaysia KDU University College, and a
 - 👀 I’m interested in Internet Of Things, IR4.0 and more!
 - 😆 I’m currently learning how to code consistently haha
 - 💞️ I’m looking to collaborate on nothing at the moment.
-- 👨‍🎓 Looking for interships!
 
 #### Acquired Skills
 
