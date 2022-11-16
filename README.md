@@ -1,14 +1,13 @@
 ### Hey! I'm Hua Jian - aka @fantajiann // @huajiann
 
-I'm currently a Final Year student at UOW Malaysia KDU University College, and also a Assistant Coach at an education firm!
+I'm Software Engineering Graduate from UOW Malaysia KDU University College, and also a Assistant Coach at an education firm!
 
 📫 Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hua%20Jian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhuajian/) [![Mail Badge](https://img.shields.io/badge/-huajianchan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:huajianchan0206@gmail.com)
 
-- 👀 I’m interested in Internet Of Things, IR4.0 and more!
+- 👀 I’m interested in IoT, Blockchain and more!
 - 😆 I’m currently learning how to code consistently haha
-- 💞️ I’m looking to collaborate on nothing at the moment.
 
 #### Acquired Skills
 
